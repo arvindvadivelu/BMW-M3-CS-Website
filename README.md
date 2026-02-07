@@ -45,6 +45,17 @@ Unlike traditional builds that rely on heavy frameworks (React, Vue), this proje
 
 <br>
 
+## 🛠️ Technology Stack
+
+| Domain | Technology | Implementation Details |
+| :--- | :--- | :--- |
+| **Core** | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) | Semantic markup, ARIA accessibility roles. |
+| **Styling** | ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) | Flexbox, Grid, CSS Variables, Keyframe Animations. |
+| **Scripting** | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) | ES6+ syntax, Intersection Observer API for scroll effects. |
+
+<br>
+
+
 ## 📸 Interface Gallery
 
 <div align="center">
@@ -64,15 +75,6 @@ Unlike traditional builds that rely on heavy frameworks (React, Vue), this proje
 
 <br><br>
 
-## 🛠️ Technology Stack
-
-| Domain | Technology | Implementation Details |
-| :--- | :--- | :--- |
-| **Core** | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) | Semantic markup, ARIA accessibility roles. |
-| **Styling** | ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) | Flexbox, Grid, CSS Variables, Keyframe Animations. |
-| **Scripting** | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) | ES6+ syntax, Intersection Observer API for scroll effects. |
-
-<br>
 
 ## ⚡ Local Development
 
@@ -80,14 +82,8 @@ To run this project locally, copy the command block below and paste it into your
 <br>
 
 ```bash
-# 1. Clone the repository
-git clone [https://github.com/arvindvadivelu/arvindvadivelu-BMW-M3-CS-Website.git](https://github.com/arvindvadivelu/arvindvadivelu-BMW-M3-CS-Website.git)
+git clone https://github.com/arvindvadivelu/BMW-M3-CS-Website.git
 
-# 2. Navigate to the project directory
-cd arvindvadivelu-BMW-M3-CS-Website
+cd BMW-M3-CS-Website
 
-# 3. Open the project (VS Code recommended)
-code . 
-
-# Note: Since this is a vanilla static site, simply opening index.html 
-# in your browser or using the 'Live Server' extension works instantly.
+## Go to Index.html and click Live Server Run
