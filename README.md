@@ -11,8 +11,12 @@
 
   <div style="margin-top: 15px;">
     <a href="https://bmwm3cs.netlify.app">
-      <img src="https://img.shields.io/badge/Deployment-Production-success?style=for-the-badge&logo=vercel&logoColor=white" alt="Deployment Status">
+      <img src="https://img.shields.io/badge/View_Live_Demo-CLICK_HERE-0066B1?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo">
     </a>
+  </div>
+  
+  <div style="margin-top: 10px;">
+    <img src="https://img.shields.io/badge/Deployment-Production-success?style=for-the-badge&logo=vercel&logoColor=white" alt="Deployment Status">
     <img src="https://img.shields.io/badge/Lighthouse_Score-100%2F100-success?style=for-the-badge&logo=google-lighthouse&logoColor=white" alt="Lighthouse Score">
     <img src="https://img.shields.io/badge/Tech_Stack-Vanilla_JS-yellow?style=for-the-badge&logo=javascript&logoColor=black" alt="Tech Stack">
   </div>
@@ -76,10 +80,13 @@ To run this project locally, copy the command block below and paste it into your
 <br>
 
 ```bash
-# Clone the repository and navigate to the directory
-git clone [https://github.com/arvindvadivelu/BMW-M3-CS-Website.git](https://github.com/arvindvadivelu/BMW-M3-CS-Website.git) && cd BMW-M3-CS-Website
+# 1. Clone the repository
+git clone [https://github.com/arvindvadivelu/arvindvadivelu-BMW-M3-CS-Website.git](https://github.com/arvindvadivelu/arvindvadivelu-BMW-M3-CS-Website.git)
 
-# Open the project (VS Code recommended)
+# 2. Navigate to the project directory
+cd arvindvadivelu-BMW-M3-CS-Website
+
+# 3. Open the project (VS Code recommended)
 code . 
 
 # Note: Since this is a vanilla static site, simply opening index.html 
