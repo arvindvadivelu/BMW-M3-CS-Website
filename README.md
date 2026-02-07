@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/BMW.svg" alt="BMW Logo" width="100" height="100">
   
-  <br><br>
+  <br>
 
   <h1 style="font-weight: 700; margin-bottom: 0;">BMW M3 CS | Digital Experience</h1>
   <p style="color: #666; font-size: 1.1rem; max-width: 600px;">
